@@ -2,13 +2,13 @@
 # AI Conceptual Design Project – ITAI2372
 
 ## Name
-Z Man *(or your real name)*
+Zayaan Ahmed
 
 ## Track Chosen
 Conceptual Design Track
 
 ## Project Title
-Smart Mental Health Support Chatbot (placeholder – update if needed)
+Smart Mental Health Support Chatbot 
 
 ## Project Description
 This project proposes the design of an AI-powered mental health chatbot capable of providing supportive conversation, recognizing signs of distress, and suggesting resources to users in need. The system emphasizes ethical design, user privacy, and accessibility.
@@ -20,4 +20,4 @@ The project is organized as follows:
 - `testing_plan.md` – how the system would be tested for accuracy, safety, and performance
 - `slides.pdf` – presentation version of the project for submission
 
-Each document is written clearly with diagrams and examples for easy understanding.
+I have written clearly with diagrams and examples for easy understanding.
